@@ -76,6 +76,7 @@
  /* Game Info */
 ul {
   padding-left: 30px;
+  list-style: none;
  }
  .game-info {
   margin-left: 20px;
@@ -83,4 +84,8 @@ ul {
  .status {
   margin-bottom: 10px;
  }
- 
+ button{
+   border-color: #2b638f;
+   background-color: #538fbe;
+   color: black;
+ }
